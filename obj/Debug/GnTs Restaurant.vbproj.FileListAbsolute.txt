@@ -1,0 +1,34 @@
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\GnTLibrary.dll
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\GnTLibrary.pdb
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\GnTLibrary.xml
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs Restaurant.vbproj.GenerateResource.Cache
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\GnTs Restaurant.exe
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\GnTs Restaurant.pdb
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\GnTs Restaurant.xml
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Bill.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Check_Reservation.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Order_Taking.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Reservation.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Item_Menu.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Login.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Resources.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs Restaurant.exe
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs Restaurant.xml
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs Restaurant.pdb
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Admin_Menu.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Backup.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Employee_Entry.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Employee_Menu.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Materials.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Products.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Stock.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Stock_emp_detail.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Emp_Attendance.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Emp_Detail.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Emp_Payslip.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.Manager_Main.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\obj\Debug\GnTs_Restaurant.New_Emp.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\Calculator.dll
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\Calculator.pdb
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GnT's Restaurant\GnT's Restaurant\bin\Debug\Calculator.xml
