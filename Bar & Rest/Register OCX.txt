@@ -1,0 +1,1 @@
+Double Click on 'Register' file in 'Application' folder to register LvButton.
