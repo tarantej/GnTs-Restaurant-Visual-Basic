@@ -1,0 +1,11 @@
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\bin\Debug\GntLibrary.dll
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\bin\Debug\GntLibrary.pdb
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\bin\Debug\GntLibrary.xml
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\obj\Debug\GntLibrary.Resources.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\obj\Debug\GntLibrary.vbproj.GenerateResource.Cache
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\obj\Debug\GntLibrary.dll
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\obj\Debug\GntLibrary.xml
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\obj\Debug\GntLibrary.pdb
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\obj\Debug\GntLibrary.AddMore.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\GntLibrary\GntLibrary\obj\Debug\GntLibrary.Calculator.resources
