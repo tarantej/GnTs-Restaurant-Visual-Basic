@@ -1,0 +1,11 @@
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\bin\Debug\Login.exe
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\bin\Debug\Login.pdb
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\bin\Debug\Login.xml
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\obj\Debug\Login.LoginForm1.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\obj\Debug\Login.exe
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\obj\Debug\Login.xml
+C:\Users\Tarantej Singh\Desktop\GnT's Bar and Restaurant\Login\Login\obj\Debug\Login.pdb
