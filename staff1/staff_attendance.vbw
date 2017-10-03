@@ -1,0 +1,14 @@
+Employee_entry = 60, 0, 710, 659, C, 67, 37, 692, 564, C
+Attendence_entry = -3, -5, 696, 654, C, 43, 58, 620, 514, C
+Department_entry = 154, 203, 742, 659, C, 44, 58, 619, 506, C
+MDIForm1 = -33, 166, 582, 590, C, 66, 87, 642, 543, C
+DataEnvironment1 = 44, 58, 619, 506, C, 23, 23, 758, 755, C
+attendence_detail = 42, 250, 644, 706, C, 9, 36, 1041, 813, C
+employee_detail = 0, 0, 0, 0, C, 110, 145, 1142, 915, C
+Attendence_report = 0, 0, 730, 668, C, 139, 100, 714, 548, C
+Employee_detail_report = 0, 0, 745, 651, C, 2, 7, 719, 646, C
+pay_slip_fm = 1, 72, 757, 575, C, 0, 0, 560, 446, C
+pay_slip = 0, 0, 0, 0, C, -13, 65, 653, 629, C
+pay_slip_report = 88, 116, 651, 572, C, -1, -1, 716, 637, C
+monthly_pay = 22, 29, 638, 485, C, 2, 23, 1034, 793, C
+backup_fm = 22, 29, 643, 477, C, 0, 0, 588, 456, C
